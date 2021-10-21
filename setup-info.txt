@@ -1,7 +1,14 @@
-https://www.jenkins.io/blog/2020/03/30/azure-key-vault-cred-provider/
-
 https://medium.com/@bvamsi482/automate-infrastructure-deployments-on-microsoft-azure-with-terraform-and-jenkins-9f941229ebcf
 
 az ad sp create-for-rbac --name http://service-principal-name
 
+https://registry.terraform.io/
+
+Issues:
 https://newbedev.com/jenkins-pipeline-sh-fail-with-cannot-run-program-nohup-on-windows
+
+Jenkins: Master Slave Setup
+https://www.youtube.com/watch?v=tQBJBTwlOf8
+
+azure-key-vault
+https://www.jenkins.io/blog/2020/03/30/azure-key-vault-cred-provider/
