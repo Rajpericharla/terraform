@@ -12,3 +12,8 @@ https://www.youtube.com/watch?v=tQBJBTwlOf8
 
 azure-key-vault
 https://www.jenkins.io/blog/2020/03/30/azure-key-vault-cred-provider/
+
+-------------------------------------------------------------------------------
+Kubernetes:
+choco install kubernetes-cli
+choco install minikube
