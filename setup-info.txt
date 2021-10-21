@@ -17,3 +17,6 @@ https://www.jenkins.io/blog/2020/03/30/azure-key-vault-cred-provider/
 Kubernetes:
 choco install kubernetes-cli
 choco install minikube
+minikube start
+minikube status
+minikube dashboard
